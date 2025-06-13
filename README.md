@@ -2,6 +2,10 @@
 
 A simple React application that displays courses using filters and cards. Built using React, Tailwind CSS, and `react-toastify`.
 
+## 🌐 Live Demo
+
+[🔗 Visit Git Detective](https://coursesappx.netlify.app/)  
+
 ## 🚀 Features
 
 - Course data loaded from API
